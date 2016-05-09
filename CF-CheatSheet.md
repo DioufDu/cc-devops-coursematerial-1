@@ -1,0 +1,5 @@
+- To find the organization GUIDs, run: `cf curl /v2/organizations?q=name:YOUR-ORG-NAME`
+- Get detailed infos on organization: `cf org YOUR-ORG-NAME`
+- Get detailed infos on app: `cf app YOUR-APP-Name`
+- Get used quota of all spaces in an org `cf curl /v2/organizations/ORG_GUID/summary`
+- User Management: https://docs.cloudfoundry.org/adminguide/cli-user-management.html

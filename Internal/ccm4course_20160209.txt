@@ -1,0 +1,55 @@
+Group 1: ccm4course
+---------------------
+Steuer, Patrik <patrik.steuer@sap.com>;D062111
+Roesch, Johannes <johannes.roesch@sap.com>;D064519
+Lindemann, Thiemo <thiemo.lindemann@sap.com>;D033151
+Meier, Andreas <andreas.meier@sap.com>;D035906
+Rovcanin, Muamer <muamer.rovcanin@sap.com>;D065302
+Schur, Matthias <matthias.schur@sap.com>;D043930
+Seifner, Michel <michel.seifner@sap.com>;D030766
+Weigel, Norman <norman.weigel@sap.com>;D052703
+Solanka, Anika <anika.solanka@sap.com>;D060171
+
+Group 2: ccm4course2
+----------------------
+Salm, Thomas <thomas.salm@sap.com>; D025990
+Arabaghatta Shivarudrappa, Vathsala <vathsala.arabaghatta.shivarudrappa@sap.com>; D064041
+Nocon, Oliver <oliver.nocon@sap.com>; D032835
+Schlotte, Marion <marion.schlotte@sap.com>; D037045
+Atanasiu, Radu-Florian <radu-florian.atanasiu@sap.com>; D057994
+Bianchino, Santo <santo.bianchino@sap.com>; D057453
+Niedermaier, Arnold <arnold.niedermaier@sap.com>; D021268
+Bredebusch, Wolfgang <wolfgang.bredebusch@sap.com>; D031640
+Hermann, Thomas <thomas.hermann@sap.com>; D002577
+Gronwald, Andrea <andrea.gronwald@sap.com>; D049105
+
+
+Group 3: ccm4course3
+----------------------
+Palianytsia, Ivan <ivan.palianytsia@sap.com>; D065311
+Maring, Damian Lion <damian.lion.maring@sap.com>; D059394
+Schulz, Hans <hans.schulz@sap.com>; D060274
+Raab, Nena <nena.raab@sap.com>; D048418
+Girts, Robert <robert.girts@sap.com>; D055988
+Spengler, Michael <michael.spengler@sap.com>; D050420
+Heymann, Juergen <juergen.heymann@sap.com>; D021619
+Alexander <alexander.link@sap.com>; D036706
+
+
+Only watching: Esch, Andreas <andreas.esch@sap.com>; D020865
+
+x Steffke, Martin <martin.steffke@sap.com>; D020563
+x Zern, Stefan <stefan.zern@sap.com>;D038644
+x Hellenschmidt, Michael <michael.hellenschmidt@sap.com>;D054145
+x Maros, Sarah <sarah.maros@sap.com>;D033278
+x Block, Ulrich <u.block@sap.com>;D064960
+x Witteborg, Heiko <heiko.witteborg@sap.com>;D049904
+x Wieschnowsky, Tobias <tobias.wieschnowsky@sap.com>; D055981
+
+Keller, Jens <jens.keller@sap.com>; D052927
+Holzwarth, Christian <christian.holzwarth@sap.com>; D058743
+Rauner, Thomas (external - Project) <thomas.rauner@sap.com>; C5234871
+Zeng, Zheng <z.zeng@sap.com>; D063250
+
+
+? Weiss, Jan <ja.weiss@sap.com>;

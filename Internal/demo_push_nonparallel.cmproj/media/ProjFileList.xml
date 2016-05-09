@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjFilesArray</key>
+	<array>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/d052927/Desktop/demo_push_nonparallel.cmproj/recordings/1454686740.333264/Rec 02-5-16 4.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAAIYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADRT3JPSCsAAAFT1PESUmVjIDAyLTUtMTYgNC50
+				cmVjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAVPU9NLabeAAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0NTQ2ODY3NDAu
+				MzMzMjY0AAAQAAgAANFPVi8AAAARAAgAANLaX9AAAAAB
+				ABgBU9TxAVPU7gFT1O0ACzyjAAs7oAACmDUAAgB1TWFj
+				aW50b3NoIEhEOlVzZXJzOgBkMDUyOTI3OgBEZXNrdG9w
+				OgBkZW1vX3B1c2hfbm9ucGFyYWxsZWwuY21wcm9qOgBy
+				ZWNvcmRpbmdzOgAxNDU0Njg2NzQwLjMzMzI2NDoAUmVj
+				IDAyLTUtMTYgNC50cmVjAAAOACYAEgBSAGUAYwAgADAA
+				MgAtADUALQAxADYAIAA0AC4AdAByAGUAYwAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASAGJVc2Vycy9k
+				MDUyOTI3L0Rlc2t0b3AvZGVtb19wdXNoX25vbnBhcmFs
+				bGVsLmNtcHJvai9yZWNvcmRpbmdzLzE0NTQ2ODY3NDAu
+				MzMzMjY0L1JlYyAwMi01LTE2IDQudHJlYwATAAEvAAAV
+				AAIADv//AAA=
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/d052927/Desktop/demo_push_nonparallel.cmproj/recordings/1454686740.333264/Rec 02-5-16 4.trec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/d052927/Desktop/demo_push_nonparallel.cmproj/recordings/1454686740.333458/Rec 02-5-16 8.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAAIYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADRT3JPSCsAAAFT1PISUmVjIDAyLTUtMTYgOC50
+				cmVjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAVPU99LacmsAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0NTQ2ODY3NDAu
+				MzMzNDU4AAAQAAgAANFPVi8AAAARAAgAANLaZFsAAAAB
+				ABgBU9TyAVPU7gFT1O0ACzyjAAs7oAACmDUAAgB1TWFj
+				aW50b3NoIEhEOlVzZXJzOgBkMDUyOTI3OgBEZXNrdG9w
+				OgBkZW1vX3B1c2hfbm9ucGFyYWxsZWwuY21wcm9qOgBy
+				ZWNvcmRpbmdzOgAxNDU0Njg2NzQwLjMzMzQ1ODoAUmVj
+				IDAyLTUtMTYgOC50cmVjAAAOACYAEgBSAGUAYwAgADAA
+				MgAtADUALQAxADYAIAA4AC4AdAByAGUAYwAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASAGJVc2Vycy9k
+				MDUyOTI3L0Rlc2t0b3AvZGVtb19wdXNoX25vbnBhcmFs
+				bGVsLmNtcHJvai9yZWNvcmRpbmdzLzE0NTQ2ODY3NDAu
+				MzMzNDU4L1JlYyAwMi01LTE2IDgudHJlYwATAAEvAAAV
+				AAIADv//AAA=
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/d052927/Desktop/demo_push_nonparallel.cmproj/recordings/1454686740.333458/Rec 02-5-16 8.trec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/d052927/Desktop/demo_push_nonparallel.cmproj/recordings/1454686740.333612/Rec 02-5-16 9.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAAIYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADRT3JPSCsAAAFT1PMSUmVjIDAyLTUtMTYgOS50
+				cmVjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAVPU+tLacxoAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0NTQ2ODY3NDAu
+				MzMzNjEyAAAQAAgAANFPVi8AAAARAAgAANLaZQoAAAAB
+				ABgBU9TzAVPU7gFT1O0ACzyjAAs7oAACmDUAAgB1TWFj
+				aW50b3NoIEhEOlVzZXJzOgBkMDUyOTI3OgBEZXNrdG9w
+				OgBkZW1vX3B1c2hfbm9ucGFyYWxsZWwuY21wcm9qOgBy
+				ZWNvcmRpbmdzOgAxNDU0Njg2NzQwLjMzMzYxMjoAUmVj
+				IDAyLTUtMTYgOS50cmVjAAAOACYAEgBSAGUAYwAgADAA
+				MgAtADUALQAxADYAIAA5AC4AdAByAGUAYwAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASAGJVc2Vycy9k
+				MDUyOTI3L0Rlc2t0b3AvZGVtb19wdXNoX25vbnBhcmFs
+				bGVsLmNtcHJvai9yZWNvcmRpbmdzLzE0NTQ2ODY3NDAu
+				MzMzNjEyL1JlYyAwMi01LTE2IDkudHJlYwATAAEvAAAV
+				AAIADv//AAA=
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/d052927/Desktop/demo_push_nonparallel.cmproj/recordings/1454686740.333612/Rec 02-5-16 9.trec</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
